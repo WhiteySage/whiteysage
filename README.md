@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"><samp> Salute 👋🏾. I'm a Open Source Contributor, Longboarder 🏄. I also like Python and Cloud Tech 🐍 ☁️ </samp></h1>
 
-<!--
-**WhiteySage/whiteysage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on AstroBlast.<br>🧐 Learning about serverless architectures, distributed systems, Comsol and a bit of ML.<br>👨‍💻 Most of my projects are available on Github.<br>💬 Ping me about security, and cloud stuff. 🎉 Fun Fact: 我也会讲中文。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergey-kubakh-aa712b157/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://ru.pinterest.com/whiteysage/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/whodat_sergey) 
+ 
+
+<p align="center"></p>
+<img src="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" width="256px"/>
+</p>
+ 
+ 
+ 
