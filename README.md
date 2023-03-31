@@ -1,4 +1,5 @@
-<h1 align="center"><samp> Salute 👋🏾. I'm a Open Source Contributor, Longboarder 🏄. I also like Python and Cloud Tech 🐍 ☁️ </samp></h1>
+<h1 align="center"><samp> Salute 👋🏾. I'm a Open Source Contributor, Longboarder 🏄.</samp></h1>
+<h1 align="center"><samp> I also like Python and Cloud Tech 🐍 ☁️ </samp></h1>
 
 🔭 I’m currently working on AstroBlast.<br>🧐 Learning about serverless architectures, distributed systems, Comsol and a bit of ML.<br>👨‍💻 Most of my projects are available on Github.<br>💬 Ping me about security, and cloud stuff. 🎉 Fun Fact: 我也会讲中文。
 
