@@ -3,7 +3,7 @@
 # Hi, I'm Sergey
 
 <p align="center">
-   <img src="https://i.ibb.co/n0L2D8h/maxresdefault.jpg" alt="logo" border="0"></a>
+   <img src="https://i.ibb.co/n0L2D8h/maxresdefault.jpg"</a>
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
