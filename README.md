@@ -2,7 +2,7 @@
  
 # Hi, I'm Sergey
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gCNydUh" data-context="false" ><a href="//imgur.com/a/gCNydUh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/gCNydUh">
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/whiteysage" target="_blank" style='margin-right:10px'>
