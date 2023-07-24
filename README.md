@@ -36,7 +36,6 @@ I'm a Python developer.
 
 * Technology and software
 * Science 
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
 * Longboarding 🏄  
 * Nutrition
 
