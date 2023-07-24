@@ -2,7 +2,7 @@
  
 # Hi, I'm Sergey
 
-<a href="https://imgtr.ee/image/maxresdefault.PH90T"><img src="https://imgtr.ee/images/2023/07/24/4db394c48a6aefb1fa6fbdc90880a85c.jpeg" alt="4db394c48a6aefb1fa6fbdc90880a85c.jpeg" border="0"></a>
+<a href="https://imgtr.ee/image/maxresdefault.PH90T"><img src="https://yourimageshare.com/ib/ef5Oz4VgPt" alt="4db394c48a6aefb1fa6fbdc90880a85c.jpeg" border="0"></a>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/whiteysage" target="_blank" style='margin-right:10px'>
