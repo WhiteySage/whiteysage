@@ -2,7 +2,7 @@
  
 # Hi, I'm Sergey
 
- <img src="https://kept.com.ua/thumb/92a0/maxresdefault (1).jpeg"/></a><br/>
+ <img src="https://kept.com.ua/92a0/maxresdefault_(1).jpeg"/></a><br/>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/whiteysage" target="_blank" style='margin-right:10px'>
