@@ -2,7 +2,7 @@
  
 # Hi, I'm Sergey
 
-<img src="https://imgur.com/a/gCNydUh">
+<img src="https://i.imgur.com/FAdub92.jpeg">
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/whiteysage" target="_blank" style='margin-right:10px'>
