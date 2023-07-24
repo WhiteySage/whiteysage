@@ -3,9 +3,7 @@
 # Hi, I'm Sergey
 
 <p align="center">
-  <a href="https://whiteysage.com/">
     <img src="https://ibb.co/n0L2D8h"/>
-  </a>
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
