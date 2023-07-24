@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://whiteysage.com/">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://drive.google.com/file/d/1GrsZVKqpTS_o5-ALEFJbCGwxEygWiDbJ/view?usp=sharing" alt="logo" />
   </a>
 </p>
 
