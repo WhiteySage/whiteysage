@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://whiteysage.com/">
-    <img width="100" src="https://ibb.co/n0L2D8h"/>
+    <img src="https://ibb.co/n0L2D8h"/>
   </a>
 </p>
 
