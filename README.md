@@ -20,9 +20,9 @@
 </p>
 
 <br>
-I'm a Python developer. 
+I'm a Python developer and Data Analyst
 
-🎉 Fun Fact: 我也会讲中文。
+ 
 
 </br>
 
@@ -35,9 +35,8 @@ I'm a Python developer.
 #### 🧡 &nbsp;&nbsp;My passions
 
 * Technology and software
-* Science 
 * Longboarding 🏄  
-* Nutrition
+ 
 
 
  
